@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveendevinda20" alt="praveendevinda20" /></a> </p>
 
-- 🔭 I’m currently working on [Legal Chatbot which uses Generative AI\nA conversational assistant trained on legal documents to answer user queries.](https://github.com/PraveenDevinda20/Legal-Chatbot-Generative-AI.git)
+- 🔭 I’m currently working on [Legal Chatbot which uses Generative AI
+  A conversational assistant trained on legal documents to answer user queries.](https://github.com/PraveenDevinda20/Legal-Chatbot-Generative-AI.git)
 
 - 🌱 I’m currently learning **- LangChain - RAG pipelines and vector stores - OpenAI function calling & prompt engineering**
 
@@ -14,7 +15,7 @@
 
 - 📫 How to reach me **praveen.devinda20@gmail.com**
 
-- 📄 Know about my experiences [https://mysliit-my.sharepoint.com/:b:/g/personal/it22191038_my_sliit_lk/EdpVmqprHvhIvknII2gFV7oBdlYGJ6HjJgAS4s_xS4oCDw?e=9UzT3p](https://mysliit-my.sharepoint.com/:b:/g/personal/it22191038_my_sliit_lk/EdpVmqprHvhIvknII2gFV7oBdlYGJ6HjJgAS4s_xS4oCDw?e=9UzT3p)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
